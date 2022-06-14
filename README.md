@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @jessetobler
+- 👀 I’m interested in learning how to code ...
+- 🌱 I’ve only just started the CS50 course and realizing how over my head all of this is ...
+- 📫 How to reach me, I'm sure there's some form of an inbox here on GitHub...
+
+<!---
+jessetobler/jessetobler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
